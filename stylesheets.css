@@ -1,0 +1,13 @@
+.card-collection {
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+}
+
+.card {
+    width: 25% !important;
+}
+
+.video {
+    width: 60%
+}
